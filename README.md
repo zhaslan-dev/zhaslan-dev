@@ -15,18 +15,18 @@
 
 ### 🚀 Чем я горжусь (Projects)
 
-* **[Project Name 1](ссылка)** — Асинхронный сервис для автоматизации техдока. Сократил время обработки файлов с 2 часов до 30 минут. (FastAPI, Redis, LLM).
-* **[Watchlist Bot](ссылка)** — Telegram-бот для групп с системой голосования и асинхронной работой с БД.
+* **Excell_filter** — Асинхронный сервис для автоматизации техдока. Сократил время обработки файлов с 2 часов до 30 минут. (FastAPI, Redis, LLM).
+* **Watchlist Bot** — Telegram-бот для удобного и бесплатного просмотра сериалов, фильмов, аниме и тд. с системой голосования и асинхронной работой с БД прямо из мессенджера.
 
 ---
 
 ### 📈 Статистика GitHub
-![Zhaslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=radical)
+![Zhaslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaslan-dev &show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaslan-dev &layout=compact&theme=radical)
 
 ---
 
 ### 📫 Как со мной связаться
-* **Telegram:** [@твой_ник]
+* **Telegram:** [@AEZAKMI_V_V]
 * **Email:** zhaslantj@gmail.com
   
